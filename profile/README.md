@@ -7,8 +7,8 @@
 | English Name | Korean Name | Type | Description | Link |
 | -- | -- | -- | -- | -- |
 | booksitout | 책잇아웃 | Website | a website to help book worms read more convienently | [booksitout.com](https://booksitout.com) |
-| substrack | 구독 돌보미 | iOS App | an iOS app to help you manage your subscriptions better | |
-| Purrfit Cat | 구독 관리냥 | iOS App | an iOS app to help you manage your income better | |
+| substrack | 고정지출 돌보미 | iOS App | an iOS app to help you manage your subscriptions better | [Apple App Store](https://apps.apple.com/app/%EA%B5%AC%EB%8F%85-%EB%8F%8C%EB%B3%B4%EB%AF%B8/id6451234943) |
+| Purrfit Cat | 수입 관리냥 | iOS App | an iOS app to help you manage your income better | [Apple App Store](https://apps.apple.com/app/purrfit-tracker/id6458539987) |
 
 # Additional Info
 - For more inquiries, email at booksitout@gmail.com
