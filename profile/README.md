@@ -9,7 +9,7 @@
 | booksitout | 책잇아웃 | Website | a website to help book worms read more convienently | [booksitout.com](https://booksitout.com) |
 | Substrack | 고정지출 돌보미 | iOS App | an iOS app to help you manage your subscriptions better | [Apple App Store](https://apps.apple.com/app/%EA%B5%AC%EB%8F%85-%EB%8F%8C%EB%B3%B4%EB%AF%B8/id6451234943) |
 | Purrfit Tracker | 수입 관리냥 | iOS App | an iOS app to help you manage your income better | [Apple App Store](https://apps.apple.com/app/purrfit-tracker/id6458539987) |
-| Featured Days | 인생날 | iOS App | an iOS app to feature your important days | |
+| Featured Days | 인생날 | iOS App | an iOS app to feature your important days | [Apple App Store](https://apps.apple.com/us/app/featured-days/id6523433258) |
 | Pianoman | 피아노맨 | iOS App | an iOS app to track your musical progress | |
 
 # Additional Info
